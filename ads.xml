@@ -1,0 +1,30 @@
+<Advertisements>
+   <Ad>
+      <ImageUrl>fedex.jpg</ImageUrl>
+      <NavigateUrl>http://www.fedex.com</NavigateUrl>
+      <AlternateText>fedex Site</AlternateText>
+      <Impressions>10</Impressions>
+      <Keyword>Computer</Keyword>
+   </Ad>
+   <Ad>
+      <ImageUrl>favordelivery.jpg</ImageUrl>
+      <NavigateUrl>http://www.favordelivery.com</NavigateUrl>
+      <AlternateText>Favor Delivery Site</AlternateText>
+      <Impressions>11</Impressions>
+      <Keyword>Computer</Keyword>
+   </Ad>
+   <Ad>
+      <ImageUrl>homechef.jpg</ImageUrl>
+      <NavigateUrl>http://www.homechef.com</NavigateUrl>
+      <AlternateText>Home Chef Site</AlternateText>
+      <Impressions>9</Impressions>
+      <Keyword>Computer</Keyword>
+   </Ad>
+   <Ad>
+      <ImageUrl>fq.jpg</ImageUrl>
+      <NavigateUrl>http://www.freightquote.com</NavigateUrl>
+      <AlternateText>Freight Quote Site</AlternateText>
+      <Impressions>12</Impressions>
+      <Keyword>Computer</Keyword>
+   </Ad>
+</Advertisements>

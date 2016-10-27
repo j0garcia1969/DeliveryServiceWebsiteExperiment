@@ -1,0 +1,79 @@
+﻿a:link {
+   color:white;
+}
+
+a:visited { 
+    color:white;
+}
+
+
+h1{
+   color: lawngreen;
+   text-align: center;
+}
+
+h1.leftdiv1{
+   color: purple;
+   text-align: left;
+}
+
+p.rightdiv2
+{
+color:mediumpurple;
+text-align:left;
+}
+
+h3{
+   color: red;
+   text-align:left;
+}
+
+p
+{
+color:cornflowerblue;
+text-align:left;
+}
+
+
+table#t01 {
+   width: 100%;
+   background-color: #0000FF;
+}
+
+table, th, td {
+   border: 1px solid white;
+   border-collapse: collapse;
+   color: white;
+}
+
+th, td {
+   padding: 15px;
+}
+
+div.relative {
+    position: relative;
+    width: 100%;
+    height: 1051px;
+    border: 1px solid white;
+} 
+
+div.absolutel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 21%;
+    height: 1050px;
+    border: 1px solid white;
+    background-color: lightblue;
+    text-align: center;
+}
+
+div.absoluter {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 79%;
+    height: 1050px;
+    border: 1px solid white;
+    background-color: lightblue;
+}
